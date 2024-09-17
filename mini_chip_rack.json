@@ -1,0 +1,65 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "5x20 Row BGG Mini Chips Stackable No Cutouts": {
+            "bottom_row_depth": "25",
+            "chips_per_row": "20",
+            "cutout_diameter": "0",
+            "diameter": "27",
+            "row_spacing": "2",
+            "rows": "5",
+            "thickness": "4.1500000000000004",
+            "tolerance": "0.050000000000000003",
+            "top_row_depth": "42",
+            "wall_thickness": "2"
+        },
+        "5x20 Row BGG Mini Chips Stackable Cutouts": {
+            "bottom_row_depth": "25",
+            "chips_per_row": "20",
+            "cutout_diameter": "20",
+            "diameter": "27",
+            "row_spacing": "2",
+            "rows": "5",
+            "thickness": "4.1500000000000004",
+            "tolerance": "0.050000000000000003",
+            "top_row_depth": "42",
+            "wall_thickness": "2"
+        },
+        "5x20 Row BGG Mini Chips Single Cutouts": {
+            "bottom_row_depth": "0",
+            "chips_per_row": "20",
+            "cutout_diameter": "20",
+            "diameter": "27",
+            "row_spacing": "2",
+            "rows": "5",
+            "thickness": "4.1500000000000004",
+            "tolerance": "0.050000000000000003",
+            "top_row_depth": "42",
+            "wall_thickness": "2"
+        },
+        "5x20 Row BGG Mini Chips Single No Cutouts": {
+            "bottom_row_depth": "25",
+            "chips_per_row": "20",
+            "cutout_diameter": "0",
+            "diameter": "27",
+            "row_spacing": "2",
+            "rows": "5",
+            "thickness": "4.1500000000000004",
+            "tolerance": "0.050000000000000003",
+            "top_row_depth": "42",
+            "wall_thickness": "2"
+        },
+        "5x20 Row BGG Mini Chips Lid": {
+            "bottom_row_depth": "58",
+            "chips_per_row": "20",
+            "cutout_diameter": "0",
+            "diameter": "27",
+            "row_spacing": "2",
+            "rows": "5",
+            "thickness": "4.1500000000000004",
+            "tolerance": "0.050000000000000003",
+            "top_row_depth": "0",
+            "wall_thickness": "2"
+        }
+    }
+}
