@@ -9,21 +9,19 @@
             "row_spacing": "2",
             "rows": "5",
             "thickness": "4.1500000000000004",
-            "tolerance": "0.050000000000000003",
             "top_row_depth": "42",
             "wall_thickness": "2"
         },
         "5x20 Row BGG Mini Chips Stackable Cutouts": {
-            "bottom_row_depth": "25",
+            "bottom_row_depth": "24",
             "chips_per_row": "20",
             "cutout_diameter": "20",
-            "diameter": "27",
+            "diameter": "27.100000000000001",
             "row_spacing": "2",
             "rows": "5",
             "thickness": "4.1500000000000004",
-            "tolerance": "0.050000000000000003",
-            "top_row_depth": "42",
-            "wall_thickness": "2"
+            "top_row_depth": "38",
+            "wall_thickness": "2.8000000000000007"
         },
         "5x20 Row BGG Mini Chips Single Cutouts": {
             "bottom_row_depth": "0",
@@ -33,7 +31,6 @@
             "row_spacing": "2",
             "rows": "5",
             "thickness": "4.1500000000000004",
-            "tolerance": "0.050000000000000003",
             "top_row_depth": "42",
             "wall_thickness": "2"
         },
@@ -45,7 +42,6 @@
             "row_spacing": "2",
             "rows": "5",
             "thickness": "4.1500000000000004",
-            "tolerance": "0.050000000000000003",
             "top_row_depth": "42",
             "wall_thickness": "2"
         },
@@ -57,9 +53,65 @@
             "row_spacing": "2",
             "rows": "5",
             "thickness": "4.1500000000000004",
-            "tolerance": "0.050000000000000003",
             "top_row_depth": "0",
             "wall_thickness": "2"
+        },
+        "5_row_hex_cutouts_with_magnet_holes": {
+            "bottom_row_depth": "50",
+            "chips_per_row": "20",
+            "cutout_diameter": "19",
+            "diameter": "27",
+            "row_spacing": "3",
+            "rows": "5",
+            "thickness": "4.1500000000000004",
+            "top_row_depth": "50",
+            "wall_thickness": "3"
+        },
+        "Neue Parameter Liste1": {
+            "bottom_row_depth": "50",
+            "chips_per_row": "20",
+            "cutout_diameter": "20",
+            "diameter": "27",
+            "row_spacing": "3",
+            "rows": "5",
+            "thickness": "4.1500000000000004",
+            "top_row_depth": "50",
+            "wall_thickness": "3"
+        },
+        "final_5x20_hex": {
+            "bottom_row_depth": "50",
+            "chips_per_row": "20",
+            "cutout_diameter": "20",
+            "diameter": "27",
+            "row_spacing": "3",
+            "rows": "5",
+            "thickness": "4.1500000000000004",
+            "top_row_depth": "50",
+            "wall_thickness": "3"
+        },
+        "Neue Parameter Liste2": {
+            "bottom_row_depth": "0",
+            "chips_per_row": "20",
+            "cutout_diameter": "20",
+            "diameter": "27",
+            "row_spacing": "3",
+            "rows": "5",
+            "thickness": "4.1500000000000004",
+            "top_row_depth": "50",
+            "wall_thickness": "3"
+        },
+        "Neue Parameter Liste3": {
+            "bottom_row_depth": "0",
+            "chips_per_row": "20",
+            "cutout_diameter": "19",
+            "diameter": "27",
+            "row_spacing": "3",
+            "rows": "5",
+            "thickness": "4.1500000000000004",
+            "tolerance_diameter": "0.20000000000000001",
+            "tolerance_thickness": "0.050000000000000003",
+            "top_row_depth": "50",
+            "wall_thickness": "3"
         }
     }
 }
